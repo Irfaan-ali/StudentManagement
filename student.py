@@ -22,3 +22,5 @@ while True:
 
     else:
         print("Invalid choice!")
+        
+print("Git is awesome!")
